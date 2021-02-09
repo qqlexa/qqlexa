@@ -2,6 +2,11 @@
 
 - 📫 How to reach me: https://t.me/qqlexa
 
+<p align=center>
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=qqlexa&show_icons=true&count_private=true" />
+  <br /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlexa&card_width=495" />
+ </p>
+
 <!--
 **qqlexa/qqlexa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
