@@ -3,8 +3,8 @@
 - 📫 How to reach me: https://t.me/qqlexa
 
 <p align=center>
-  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=qqlexa&show_icons=true&count_private=true" />
-  <br /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlexa&card_width=495" />
+  <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=qqlexa&show_icons=true&count_private=true&theme=react" />
+  <br /><img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qqlexa&theme=react&card_width=495" />
  </p>
 
 <!--
